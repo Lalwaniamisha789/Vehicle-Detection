@@ -43,7 +43,8 @@ Traditional traffic management systems operate on fixed timers or manual control
 ## How it works 
 1. The camera feed captures videos from intersection
 2. YOLOv5 detects vehicles in the video feed and counts the number of vehicles in each lane.
-3. Based on the traffic density, the traffic signal controller adjusts the green light duration for each lane dynamically, optimizing traffic flow and reducing congestion.
+3. I used the SORT model to ID vehicles crossing a threshold.
+4. Based on the traffic density, the traffic signal controller adjusts the green light duration for each lane dynamically, optimizing traffic flow and reducing congestion.
    
 ## Sample Images
 
