@@ -52,9 +52,10 @@ Traditional traffic management systems operate on fixed timers or manual control
 ![Screenshot 2024-10-06 163810](https://github.com/user-attachments/assets/9dd94fec-fb10-45b2-86a9-242fe56ea011)
 
 ### 2. IDing all vehicles(car, bus, truck, motorbikes) crosssing a threshold under a mask restricting the detection to requires part of the lane
-![Screenshot 2024-![Screenshot 2024-10-07 001838](https://github.com/user-attachments/assets/25957e02-9d73-423d-ba5f-cbf8fca573dc)
-![Screenshot 2024-10-07 001838](https://github.com/user-attachments/assets/44e69491-614e-4a21-bbda-9253ddb133e8)
+![Screenshot 2024-10-07 001848](https://github.com/user-attachments/assets/b6c044d1-2a6f-4b42-b074-fc073d2d5fb8)
+![Screenshot 2024-10-07 000657](https://github.com/user-attachments/assets/c8696903-8fac-4c84-85b1-a9416bb67612)
 
 ## Algorithm Used
 ![165362571-06875fea-9fe9-4075-a74e-871503363649](https://github.com/user-attachments/assets/8e14a18a-d8cf-4e9c-9aa1-cba033074236)
+
 
