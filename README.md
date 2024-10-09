@@ -16,7 +16,7 @@ Traditional traffic management systems operate on fixed timers or manual control
 - Decreased accident frequency by optimizing traffic flow.
 
 ## Technology
-- **YOLOv5**: A powerful object detection model that uses a single forward pass of a convolutional neural network to detect vehicles in real-time. YOLOv5's efficiency makes it ideal for traffic management applications where real-time processing is essential.
+- **YOLO**: A powerful object detection model that uses a single forward pass of a convolutional neural network to detect vehicles in real-time. YOLO's efficiency makes it ideal for traffic management applications where real-time processing is essential.
 
 ## Installation
 1. Clone the repository:
