@@ -28,10 +28,10 @@ Traditional traffic management systems operate on fixed timers or manual control
    ```bash
    pip install -r requirements.txt
 
-3. Ensure you have YOLOv5 installed:
+3. Ensure you have YOLO installed:
    ```bash
-   git clone https://github.com/ultralytics/yolov5.git
-   cd yolov5
+   git clone https://github.com/ultralytics/yolo.git
+   cd yolo
    pip install -r requirements.txt
 
 ## Usage 
