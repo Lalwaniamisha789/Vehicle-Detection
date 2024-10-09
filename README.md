@@ -4,7 +4,7 @@
 **Adaptive Traffic Manager** is a real-time traffic control system designed to optimize traffic light durations based on live traffic density at intersections. The system uses the YOLOv5 object detection algorithm to detect vehicles in real-time, allowing for dynamic control of traffic signals, which reduces congestion and improves traffic flow.
 
 ## Features
-- **Real-time vehicle detection** using YOLOv5.
+- **Real-time vehicle detection** using YOLO.
 - **Dynamic traffic light control** based on traffic density.
 - **Configurable green light durations** based on detected vehicle counts.
 - Integration with traffic signal hardware (e.g., Raspberry Pi, GPIO control).
@@ -42,7 +42,7 @@ Traditional traffic management systems operate on fixed timers or manual control
 
 ## How it works 
 1. The camera feed captures videos from intersection
-2. YOLOv5 detects vehicles in the video feed and counts the number of vehicles in each lane.
+2. YOLO detects vehicles in the video feed and counts the number of vehicles in each lane.
 3. I used the SORT model to ID vehicles crossing a threshold.
 4. Based on the traffic density, the traffic signal controller adjusts the green light duration for each lane dynamically, optimizing traffic flow and reducing congestion.
    
