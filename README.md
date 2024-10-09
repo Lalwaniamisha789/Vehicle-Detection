@@ -1,7 +1,7 @@
 # Adaptive Traffic Manager
 
 ## Overview
-**Adaptive Traffic Manager** is a real-time traffic control system designed to optimize traffic light durations based on live traffic density at intersections. The system uses the YOLOv5 object detection algorithm to detect vehicles in real-time, allowing for dynamic control of traffic signals, which reduces congestion and improves traffic flow.
+**Adaptive Traffic Manager** is a real-time traffic control system designed to optimize traffic light durations based on live traffic density at intersections. The system uses the YOLO object detection algorithm to detect vehicles in real-time, allowing for dynamic control of traffic signals, which reduces congestion and improves traffic flow.
 
 ## Features
 - **Real-time vehicle detection** using YOLO.
