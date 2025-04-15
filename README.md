@@ -19,8 +19,8 @@ Traditional traffic management systems operate on fixed timers or manual control
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Lalwaniamisha789/Adaptive-Traffic-Manager.git
-   cd AdaptiveTrafficManager
+   git clone https://github.com/Lalwaniamisha789/Vehicle-Detection.git
+   cd Vehicle-Detection
 
 2. Install dependencies
    ```bash
